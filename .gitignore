@@ -1,0 +1,11 @@
+marktemp
+installer
+*.log
+*.swp
+*~
+.classpath
+.factorypath
+.project
+.settings
+bin
+target
