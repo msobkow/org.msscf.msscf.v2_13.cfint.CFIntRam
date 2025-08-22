@@ -12,7 +12,7 @@
   <version>2.13.11197</version>
   <name>org.msscf.msscf.v2_13.cfint.CFIntRam</name>
   <description>msscf CFIntRam 2.13 CFInt RAM persistence</description>
-  <url>https://msscode.com/msscf/</url>
+  <url>https://msscf.org/msscf/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

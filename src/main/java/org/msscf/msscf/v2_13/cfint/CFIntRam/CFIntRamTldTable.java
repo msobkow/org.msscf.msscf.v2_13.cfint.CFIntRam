@@ -8,7 +8,7 @@
  *	
  *	MSS Code Factory CFInt 2.13 Internet Essentials
  *	
- *	Copyright 2020-2021 Mark Stephen Sobkow mark.sobkow@gmail.com
+ *	Copyright 2020 Mark Stephen Sobkow mark.sobkow@gmail.com
  *	
  *	Licensed under the Apache License, Version 2.0 (the "License");
  *	you may not use this file except in compliance with the License.
@@ -33,6 +33,7 @@ import java.text.*;
 import java.util.*;
 import org.apache.commons.codec.binary.Base64;
 import org.msscf.msscf.v2_13.cflib.CFLib.*;
+import org.msscf.msscf.v2_13.cflib.CFLib.xml.*;
 import org.msscf.msscf.v2_13.cfsec.CFSec.*;
 import org.msscf.msscf.v2_13.cfint.CFInt.*;
 import org.msscf.msscf.v2_13.cfint.CFIntObj.*;
