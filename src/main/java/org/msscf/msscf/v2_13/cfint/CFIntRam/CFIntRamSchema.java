@@ -3,11 +3,11 @@
 /*
  *	org.msscf.msscf.CFInt
  *
- *	Copyright (c) 2016-2025 Mark Stephen Sobkow
+ *	Copyright (c) 2016-2026 Mark Stephen Sobkow
  *	
  *	MSS Code Factory CFInt 2.13 Internet Essentials
  *	
- *	Copyright (C) 2016-2025 Mark Stephen Sobkow (mailto:mark.sobkow@gmail.com)
+ *	Copyright (C) 2016-2026 Mark Stephen Sobkow (mailto:mark.sobkow@gmail.com)
  *	
  *	This program is free software: you can redistribute it and/or modify
  *	it under the terms of the GNU General Public License as published by
