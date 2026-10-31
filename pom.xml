@@ -4,12 +4,12 @@
   <parent>
     <groupId>org.msscf.msscf</groupId>
     <artifactId>org.msscf.msscf.v2_13</artifactId>
-    <version>2.13.42-alpha13-202610162030</version>
+    <version>2.13.42-alpha15-202610310420</version>
   </parent>
 
   <groupId>org.msscf.msscf.v2_13</groupId>
   <artifactId>org.msscf.msscf.v2_13.cfint.CFIntRam</artifactId>
-  <version>2.13.42-alpha13-202610162030</version>
+  <version>2.13.42-alpha15-202610310420</version>
   <name>org.msscf.msscf.v2_13.cfint.CFIntRam</name>
   <description>msscf CFIntRam 2.13 CFInt RAM persistence</description>
   <url>https://msscf.org/msscf/</url>
@@ -24,28 +24,28 @@
     <dependency>
       <groupId>org.msscf.msscf.v2_13</groupId>
       <artifactId>org.msscf.msscf.v2_13.cflib.CFLib</artifactId>
-      <version>2.13.42-alpha13-202610162030</version>
+      <version>2.13.42-alpha15-202610310420</version>
     </dependency>
     <dependency>
       <groupId>org.msscf.msscf.v2_13</groupId>
       <artifactId>org.msscf.msscf.v2_13.cfint</artifactId>
-      <version>2.13.42-alpha13-202610162030</version>
+      <version>2.13.42-alpha15-202610310420</version>
     </dependency>
     <dependency>
       <groupId>org.msscf.msscf.v2_13</groupId>
       <artifactId>org.msscf.msscf.v2_13.cfsec</artifactId>
-      <version>2.13.42-alpha13-202610162030</version>
+      <version>2.13.42-alpha15-202610310420</version>
     </dependency>
     <dependency>
       <groupId>org.msscf.msscf.v2_13</groupId>
       <artifactId>org.msscf.msscf.v2_13.cfint.CFIntSaxLoader</artifactId>
-      <version>2.13.42-alpha13-202610162030</version>
+      <version>2.13.42-alpha15-202610310420</version>
     </dependency>
 
     <dependency>
       <groupId>org.msscf.msscf.v2_13</groupId>
       <artifactId>org.msscf.msscf.v2_13.cfsec.CFSecSaxLoader</artifactId>
-      <version>2.13.42-alpha13-202610162030</version>
+      <version>2.13.42-alpha15-202610310420</version>
     </dependency>
   </dependencies>
 
